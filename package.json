@@ -1,0 +1,12 @@
+{
+  "name": "vortex-roulette-server",
+  "version": "1.0.0",
+  "description": "Сигнальный сервер для видеочат-рулетки VortexRoulette",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}
